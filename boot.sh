@@ -3,6 +3,9 @@
 # Set install mode to online since boot.sh is used for curl installations
 export OMARCHY_ONLINE_INSTALL=true
 
+export OMARCHY_USER_NAME="byden"
+export OMARCHY_USER_EMAIL="denisbidenko40@gmail.com"
+
 ansi_art='                 ▄▄▄                                                   
  ▄█████▄    ▄███████████▄    ▄███████   ▄███████   ▄███████   ▄█   █▄    ▄█   █▄ 
 ███   ███  ███   ███   ███  ███   ███  ███   ███  ███   ███  ███   ███  ███   ███
