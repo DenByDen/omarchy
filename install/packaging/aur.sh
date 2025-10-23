@@ -1,0 +1,1 @@
+aur_install "Zen Browser Bin" "zen-browser-bin"
