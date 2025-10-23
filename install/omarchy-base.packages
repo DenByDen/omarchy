@@ -1,8 +1,6 @@
 # Omarchy core package list installed via install/packaging/base.sh
 # This file is also used by the ISO builder when determining needs
 
-1password-beta
-1password-cli
 aether
 alacritty
 asdcontrol
@@ -124,7 +122,6 @@ tree-sitter-cli
 ttf-cascadia-mono-nerd
 ttf-ia-writer
 ttf-jetbrains-mono-nerd
-typora
 tzupdate
 ufw
 ufw-docker
