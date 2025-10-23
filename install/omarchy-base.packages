@@ -19,7 +19,6 @@ cups-pdf
 docker
 docker-buildx
 docker-compose
-dust
 elephant
 elephant-bluetooth
 elephant-calc
