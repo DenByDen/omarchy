@@ -147,3 +147,6 @@ teamspeak3
 telegram-desktop
 dbeaver
 nginx
+php
+php-fpm
+mariadb
