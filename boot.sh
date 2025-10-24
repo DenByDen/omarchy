@@ -5,6 +5,7 @@ export OMARCHY_ONLINE_INSTALL=true
 
 export OMARCHY_USER_NAME="byden"
 export OMARCHY_USER_EMAIL="denisbidenko40@gmail.com"
+export OMARCHY_REPO="DenByDen/omarchy"
 
 ansi_art='                 ▄▄▄                                                   
  ▄█████▄    ▄███████████▄    ▄███████   ▄███████   ▄███████   ▄█   █▄    ▄█   █▄ 
